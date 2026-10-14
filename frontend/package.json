@@ -1,0 +1,12 @@
+{
+  "name": "ace-gamer-and-coach-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend do ACE GAMER AND COACH (jogo) e testes automatizados",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1"
+  }
+}
