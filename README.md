@@ -2,14 +2,7 @@
 
 Jogo de tênis arcade 2D com um treinador de IA, o **COACH-A1**. Durante a partida, o Coach lê o jogo e orienta onde mirar e qual raquete usar. O texto do Coach é gerado por um modelo de linguagem, o **Llama 3.2 3B**, que roda localmente pelo **Ollama**.
 
-Este repositório é a entrega da matéria de **Front-End**. O projeto foi separado em duas partes:
-
-| Pasta | O que é | Tecnologia |
-|---|---|---|
-| [`frontend/`](frontend/) | O jogo inteiro (telas, gameplay, painel do Coach) | HTML, CSS e JavaScript puro, sem framework |
-| [`backend/`](backend/) | API que recebe o pedido do jogo e conversa com o modelo | Python + **FastAPI** |
-
-## Integrantes
+## Integrantes do Grupo
 
 | Nome | RM |
 |---|---|
@@ -17,11 +10,16 @@ Este repositório é a entrega da matéria de **Front-End**. O projeto foi separ
 | LUCAS VERO | 564202 |
 | ROBERTO EDUARDO | 564537 |
 
+Este repositório é a entrega da matéria de **Front-End**. O projeto foi separado em duas partes:
+
+| Pasta | O que é | Tecnologia |
+|---|---|---|
+| [`frontend/`](frontend/) | O jogo inteiro (telas, gameplay, painel do Coach) | HTML, CSS e JavaScript puro, sem framework |
+| [`backend/`](backend/) | API que recebe o pedido do jogo e conversa com o modelo | Python + **FastAPI** |
+
 ## Vídeo de demonstração
 
-Link: **(inserir o link do vídeo aqui)**
-
-O vídeo mostra o projeto funcionando, para o caso de ele não rodar na sua máquina.
+[https://youtu.be/jEYTOe-YSb0](https://youtu.be/jEYTOe-YSb0)
 
 ## Como funciona
 
